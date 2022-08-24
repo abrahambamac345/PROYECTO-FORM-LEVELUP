@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PROYECTO-FORM-LEVELUP/static/css/main.e7ccaefc.css",
+    "main.js": "/PROYECTO-FORM-LEVELUP/static/js/main.7818ec8b.js",
+    "static/js/787.47f5f44f.chunk.js": "/PROYECTO-FORM-LEVELUP/static/js/787.47f5f44f.chunk.js",
+    "index.html": "/PROYECTO-FORM-LEVELUP/index.html",
+    "main.e7ccaefc.css.map": "/PROYECTO-FORM-LEVELUP/static/css/main.e7ccaefc.css.map",
+    "main.7818ec8b.js.map": "/PROYECTO-FORM-LEVELUP/static/js/main.7818ec8b.js.map",
+    "787.47f5f44f.chunk.js.map": "/PROYECTO-FORM-LEVELUP/static/js/787.47f5f44f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ccaefc.css",
+    "static/js/main.7818ec8b.js"
+  ]
+}
